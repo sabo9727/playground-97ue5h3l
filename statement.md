@@ -23,3 +23,5 @@ Console.WriteLine("Hello World!");
 # Advanced usage
 
 If you want a more complex example (external libraries, viewers...), use the [Advanced C# template](https://tech.io/select-repo/386)
+
+List<int> list = new[] {1,2,3}.ToList();
