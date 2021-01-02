@@ -12,7 +12,8 @@ class Hello
     {
 // }
 
-Console.WriteLine("Hello World!");
+Console.WriteLine(list);
+
 
 // { autofold
     }
