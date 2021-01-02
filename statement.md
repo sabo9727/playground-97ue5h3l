@@ -10,8 +10,8 @@ class Hello
 {
     static void Main() 
     {
-        List<int> list = new[] {1,2,3}.ToList();
-        Console.WriteLine(list);
+        int[] array = new List<int> {1, 2, 3}.ToArray();
+        Console.WriteLine(array);
     }
 }
 // }
